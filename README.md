@@ -1,1 +1,1 @@
-# rsschool-cv
+https://notsallorja.github.io/rsschool-cv/cv
