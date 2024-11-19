@@ -19,9 +19,21 @@ I try to learn something new for me, thats why i am here.
 
 # Code Examples
 
+```
+const zeroFuel = (distanceToPump, mpg, fuelLeft) => {
+  if (mpg * fuelLeft >= distanceToPump) {
+    return true;
+  } else { return false;}
+  // TODO
+};
+```
+
 # Education
+* 2023 - 2024 - School 21
+* 2024 - now - RS School
 
-# Experience
+# Languages
 
-# English
+* Russia - native
+* English - B+
  
